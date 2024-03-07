@@ -1,0 +1,35 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  image_url: MyString
+  diameter: 1.5
+  mass: 1.5
+  details: MyText
+  facts: MyText
+
+two:
+  name: MyString
+  image_url: MyString
+  diameter: 1.5
+  mass: 1.5
+  details: MyText
+  facts: MyText
+
+
+mars:
+  name: Mars
+  image_url: mars.jpg
+  diameter: 6794
+  mass: 6.4219e23
+  details:
+    Mars is the only planet whose surface can be seen in detail from the Earth.
+    It is reddish in color, and was named after the bloody red God of war of the
+    ancient Romans. Mars is the fourth closest planet to the sun. The diameter
+    of Mars is 4,200 miles, a little over half that of the Earth. Mercury is the
+    only planet smaller than Mars.
+  facts:
+    Mars orbits the sun every 687 Earth days.
+    The Martian day is about half a hour longer than Earth.
+    At its brightest, Mars outshines every other planet apart from Venus.
+    The thin atmosphere of Mars is made of mostly carbon dioxide.
